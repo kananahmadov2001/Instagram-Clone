@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 id="Header">Instagram Clone</h1>
+    <h1 id="Header">Instagram-Clone</h1>
 </div>
 
 ## Overview
