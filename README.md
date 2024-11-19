@@ -1,9 +1,9 @@
 <div align="center">
-    <h1 id="Header">Instagram Clone Project</h1>
+    <h1 id="Header">Instagram Clone</h1>
 </div>
 
 ## Overview
-The **Instagram Clone Project** is a simplified front-end clone of Instagram, created as an exercise in HTML, CSS, and responsive design. This project replicates key UI components of Instagram’s interface and emphasizes a seamless user experience across various devices.
+The Instagram Clone is a simplified front-end clone of Instagram, created as an exercise in HTML, CSS, and responsive design. This project replicates key UI components of Instagram’s interface and emphasizes a seamless user experience across various devices.
 
 ## GitHub Page
 Here is the link: [https://wustl-cse204a-fl2024-2.github.io/retro-instagram-clone-kananahmadov2001/]
